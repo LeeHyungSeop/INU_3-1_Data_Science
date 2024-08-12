@@ -1,0 +1,13 @@
+*.jpg
+*.JPG 
+
+*.exe
+
+*.csv
+
+/data
+
+이론/
+practice/
+
+file_rename.py
